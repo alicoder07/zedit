@@ -1,0 +1,53 @@
+[
+    
+    {
+        "id": 0,
+        "name": "iOS (Online)",
+        "img": "/img/mob.png",
+        "text": "iOS (iPhone, iPad, ...) platformasi uchun har qanday dasturlar yoki o`yinlar yaratish",
+        "textLonger": "iOS (iPhone, iPad, ...) platformasi uchun har qanday dasturlar yoki o`yinlar yaratishni o`z ichiga oladi",
+        "inCourse": [
+            "Swift", "UIKit", "Alamorife", "Animation"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Kompyuter savodxonligi",
+        "img": "/img/ks.png",
+        "text": "Kompyuter savodxonligini 0 dan boshlab, ofis hodimi darajasigacha o`rganish",
+        "textLonger": "Bu kurs kompyuter haqida umuman tushunchasi yo`q yoki kam bilimga egalar uchun. 0 dan boshlab, ofis hodimi darajasigacha o`rganish",
+        "inCourse": [
+            "Hardware", "Software", "Word", "Exel", "Power Point"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "SMM Foundation",
+        "img": "/img/smm.png",
+        "text": "Mahsulotlar, tovarlar va xizmatlarni ijtimoiy tarmoqlarda tanitish, uni yurgizish",
+        "textLonger": "SMM Foundation kursimiz mahsulotlar, tovarlar va xizmatlarni ijtimoiy tarmoqlarda tanitish, uni yurgizishni o`rgatishdan iborat. Hozirgi kunda bu soha mutaxassislari uchun talab katta",
+        "inCourse": [
+            "Marketing", "Targeting", "Facebook", "Instagram"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Grafik dizayner",
+        "img": "/img/gr.png",
+        "text": "Logotiplar, grafikalar, broshyuralar, axborotnomalar, plakatlar va boshqa mahsulotlar yaratish",
+        "textLonger": "Grafik dizayn - veb-saytlar, logotiplar, grafikalar, broshyuralar, axborotnomalar, plakatlar, alomatlar va boshqa har qanday ingl. Aloqa turlarini ishlab chiqishda samarali xabar yozish uchun matn va grafikalarni birlashtiruvchi jarayon va san'at.",
+        "inCourse": [
+            "Adobe Photoshop", "Adobe Illustrator"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Android (Offline)",
+        "img": "/img/mob.png",
+        "text": "Android platformasi uchun har qanday mobil dasturlar yoki o`yinlar yaratish",
+        "textLonger": "Android platformasi uchun har qanday mobil dasturlar yoki o`yinlar yaratishni o`z ichiga oladi",
+        "inCourse": [
+            "Jav", "Kotlin", "MAP", "API"
+        ]
+    }
+]

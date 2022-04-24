@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "name": "Shahzodbek Azizov",
+        "img": "/img/teachers/2.jpg",
+        "job": "Marketing / Business Analyst",
+        "experience": "5 yil",
+        "info": "Xalqaro Westminster Universiteti bitiruvchisi, Business Analyst, AQSHda 4 oylik xalqaro tajribaga ega, \"Girgitton LLC\"da menejer, \"7echka\" brendi marketinggi bilan shug'ullangan, bir nechta loyihalar asoschisi"
+    },
+    {
+        "id": 1,
+        "name": "Rahmatillo Topiboldiyev",
+        "img": "/img/teachers/0.jpg",
+        "job": "iOS developer (Middle)",
+        "experience": "5 yil",
+        "info": "Xalqaro INHA universitetida tahsil olgan, AQSH da 3 oylik tajriba, IT sohasida 5 yillik tajriba, bir qator loyihalarda PM (Proyekt manager) sifatida ishlagan"
+    },
+    {
+        "id": 2,
+        "name": "Jaloliddinov Muhammadamin",
+        "img": "/img/teachers/1.jpg",
+        "job": "Marketolog",
+        "experience": "2 yil",
+        "info": "Toshkentdagi Texnikum School bitiruvchisi, Marketing sohasida 2 yillik tajribaga ega, \"Hilol Nashr\" da SMM manager, Azon TV Marketing bo`limi, Bir qancha loyihalarda SMM manager"
+    },
+    {
+        "id": 3,
+        "name": "Tursunov Muhammadyunus",
+        "img": "/img/teachers/3.jpg",
+        "job": "Computer Science / Software developer",
+        "experience": "5 yil",
+        "info": "Xalqaro INHA Universitetida tahsil olgan, AQSH da 4 oylik tajriba olgan, \"Toucan LLC\" da Android dasturchi, \"Sayohat LLC\" da analitik, \"Yuksalish Liderlar Akademiyasi\" da \"Sun'iy Intellekt va Zamonaviy kasblar\" fanidan mentor bo`lib ishlagan"
+    }
+]
